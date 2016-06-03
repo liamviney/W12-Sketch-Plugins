@@ -1,0 +1,15 @@
+[submodule "compo-sketch"]
+	path = compo-sketch
+	url = https://github.com/romashamin/compo-sketch
+[submodule "Fluid-for-Sketch"]
+	path = Fluid-for-Sketch
+	url = https://github.com/matt-curtis/Fluid-for-Sketch
+[submodule "RenameIt"]
+	path = RenameIt
+	url = https://github.com/rodi01/RenameIt
+[submodule "CSSketch"]
+	path = CSSketch
+	url = https://github.com/JohnCoates/CSSketch
+[submodule "cleanupsfui"]
+	path = cleanupsfui
+	url = https://github.com/schwa23/cleanupsfui
