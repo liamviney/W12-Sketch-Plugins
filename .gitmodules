@@ -13,3 +13,6 @@
 [submodule "cleanupsfui"]
 	path = cleanupsfui
 	url = https://github.com/schwa23/cleanupsfui
+[submodule "sketch-dynamic-button-3.5"]
+	path = sketch-dynamic-button-3.5
+	url = https://github.com/fuggfuggfugg/sketch-dynamic-button-3.5
